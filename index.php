@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>COUNT WORDS NUMBERS</title>
-        <link rel="stylesheet" href="newcss.css">
+        <link rel="stylesheet" href="newcss.css"/>
     </head>
     <body>
         <form>

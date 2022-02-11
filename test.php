@@ -1,1 +1,1 @@
-$a= 45;
+echo"how are you ";
